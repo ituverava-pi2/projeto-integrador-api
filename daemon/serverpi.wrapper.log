@@ -1,0 +1,194 @@
+2022-05-24 03:42:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-24 03:42:44 - Started 5740
+2022-05-24 04:01:12 - Stopping serverpi.exe
+2022-05-24 04:01:12 - ProcessKill 5740
+2022-05-24 04:01:13 - Found child process: 3036 Name: conhost.exe
+2022-05-24 04:01:13 - Found child process: 5960 Name: node.exe
+2022-05-24 04:01:13 - Stopping process 3036
+2022-05-24 04:01:13 - Send SIGINT 3036
+2022-05-24 04:01:13 - SIGINT to 3036 failed - Killing as fallback
+2022-05-24 04:01:13 - Stopping process 5960
+2022-05-24 04:01:13 - Send SIGINT 5960
+2022-05-24 04:01:13 - SIGINT to 5960 failed - Killing as fallback
+2022-05-24 04:01:13 - Stopping process 5740
+2022-05-24 04:01:13 - Send SIGINT 5740
+2022-05-24 04:01:13 - SIGINT to 5740 failed - Killing as fallback
+2022-05-24 04:01:13 - Finished serverpi.exe
+2022-05-24 04:01:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-24 04:01:18 - Started 188
+2022-05-24 04:06:48 - Stopping serverpi.exe
+2022-05-24 04:06:48 - ProcessKill 188
+2022-05-24 04:06:49 - Found child process: 852 Name: conhost.exe
+2022-05-24 04:06:49 - Found child process: 1704 Name: node.exe
+2022-05-24 04:06:49 - Stopping process 852
+2022-05-24 04:06:49 - Send SIGINT 852
+2022-05-24 04:06:49 - SIGINT to 852 failed - Killing as fallback
+2022-05-24 04:06:49 - Stopping process 1704
+2022-05-24 04:06:49 - Send SIGINT 1704
+2022-05-24 04:06:49 - SIGINT to 1704 failed - Killing as fallback
+2022-05-24 04:06:49 - Stopping process 188
+2022-05-24 04:06:49 - Send SIGINT 188
+2022-05-24 04:06:49 - SIGINT to 188 failed - Killing as fallback
+2022-05-24 04:06:49 - Finished serverpi.exe
+2022-05-24 04:06:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-24 04:06:52 - Started 6348
+2022-05-24 04:12:41 - Stopping serverpi.exe
+2022-05-24 04:12:41 - ProcessKill 6348
+2022-05-24 04:12:41 - Found child process: 1788 Name: conhost.exe
+2022-05-24 04:12:41 - Found child process: 1320 Name: node.exe
+2022-05-24 04:12:41 - Stopping process 1788
+2022-05-24 04:12:41 - Send SIGINT 1788
+2022-05-24 04:12:41 - SIGINT to 1788 failed - Killing as fallback
+2022-05-24 04:12:41 - Stopping process 1320
+2022-05-24 04:12:41 - Send SIGINT 1320
+2022-05-24 04:12:41 - SIGINT to 1320 failed - Killing as fallback
+2022-05-24 04:12:41 - Stopping process 6348
+2022-05-24 04:12:41 - Send SIGINT 6348
+2022-05-24 04:12:41 - SIGINT to 6348 failed - Killing as fallback
+2022-05-24 04:12:41 - Finished serverpi.exe
+2022-05-24 04:12:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-24 04:12:54 - Started 4316
+2022-05-24 04:13:50 - Stopping serverpi.exe
+2022-05-24 04:13:50 - ProcessKill 4316
+2022-05-24 04:13:50 - Found child process: 7136 Name: conhost.exe
+2022-05-24 04:13:50 - Found child process: 4200 Name: node.exe
+2022-05-24 04:13:50 - Stopping process 7136
+2022-05-24 04:13:50 - Send SIGINT 7136
+2022-05-24 04:13:50 - SIGINT to 7136 failed - Killing as fallback
+2022-05-24 04:13:50 - Stopping process 4200
+2022-05-24 04:13:50 - Send SIGINT 4200
+2022-05-24 04:13:50 - SIGINT to 4200 failed - Killing as fallback
+2022-05-24 04:13:50 - Stopping process 4316
+2022-05-24 04:13:50 - Send SIGINT 4316
+2022-05-24 04:13:50 - SIGINT to 4316 failed - Killing as fallback
+2022-05-24 04:13:50 - Finished serverpi.exe
+2022-05-24 05:14:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-24 05:14:39 - Started 5616
+2022-05-27 00:28:26 - Stopping serverpi.exe
+2022-05-27 00:28:26 - ProcessKill 5616
+2022-05-27 00:28:26 - Found child process: 5644 Name: conhost.exe
+2022-05-27 00:28:26 - Found child process: 6596 Name: node.exe
+2022-05-27 00:28:26 - Stopping process 5644
+2022-05-27 00:28:26 - Send SIGINT 5644
+2022-05-27 00:28:26 - SIGINT to 5644 failed - Killing as fallback
+2022-05-27 00:28:26 - Stopping process 6596
+2022-05-27 00:28:26 - Send SIGINT 6596
+2022-05-27 00:28:26 - SIGINT to 6596 failed - Killing as fallback
+2022-05-27 00:28:26 - Stopping process 5616
+2022-05-27 00:28:26 - Send SIGINT 5616
+2022-05-27 00:28:26 - SIGINT to 5616 failed - Killing as fallback
+2022-05-27 00:28:26 - Finished serverpi.exe
+2022-05-27 00:28:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-27 00:28:34 - Started 6076
+2022-05-30 18:19:35 - Stopping serverpi.exe
+2022-05-30 18:19:35 - ProcessKill 6076
+2022-05-30 18:19:36 - Found child process: 1764 Name: conhost.exe
+2022-05-30 18:19:36 - Found child process: 848 Name: node.exe
+2022-05-30 18:19:36 - Stopping process 1764
+2022-05-30 18:19:36 - Send SIGINT 1764
+2022-05-30 18:19:36 - SIGINT to 1764 failed - Killing as fallback
+2022-05-30 18:19:36 - Stopping process 848
+2022-05-30 18:19:36 - Send SIGINT 848
+2022-05-30 18:19:36 - SIGINT to 848 failed - Killing as fallback
+2022-05-30 18:19:36 - Stopping process 6076
+2022-05-30 18:19:36 - Send SIGINT 6076
+2022-05-30 18:19:36 - SIGINT to 6076 failed - Killing as fallback
+2022-05-30 18:19:36 - Finished serverpi.exe
+2022-05-30 18:24:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-30 18:24:12 - Started 2920
+2022-05-30 18:29:31 - Stopping serverpi.exe
+2022-05-30 18:29:31 - ProcessKill 2920
+2022-05-30 18:29:32 - Found child process: 4136 Name: conhost.exe
+2022-05-30 18:29:32 - Found child process: 1488 Name: node.exe
+2022-05-30 18:29:32 - Stopping process 4136
+2022-05-30 18:29:32 - Send SIGINT 4136
+2022-05-30 18:29:32 - SIGINT to 4136 failed - Killing as fallback
+2022-05-30 18:29:32 - Stopping process 1488
+2022-05-30 18:29:32 - Send SIGINT 1488
+2022-05-30 18:29:32 - SIGINT to 1488 failed - Killing as fallback
+2022-05-30 18:29:32 - Stopping process 2920
+2022-05-30 18:29:32 - Send SIGINT 2920
+2022-05-30 18:29:33 - SIGINT to 2920 failed - Killing as fallback
+2022-05-30 18:29:33 - Finished serverpi.exe
+2022-05-30 18:30:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-30 18:30:27 - Started 6332
+2022-06-05 23:32:56 - Stopping serverpi.exe
+2022-06-05 23:32:56 - ProcessKill 6332
+2022-06-05 23:32:57 - Found child process: 6724 Name: conhost.exe
+2022-06-05 23:32:57 - Found child process: 4728 Name: node.exe
+2022-06-05 23:32:57 - Stopping process 6724
+2022-06-05 23:32:57 - Send SIGINT 6724
+2022-06-05 23:32:57 - SIGINT to 6724 failed - Killing as fallback
+2022-06-05 23:32:57 - Stopping process 4728
+2022-06-05 23:32:57 - Send SIGINT 4728
+2022-06-05 23:32:57 - SIGINT to 4728 failed - Killing as fallback
+2022-06-05 23:32:57 - Stopping process 6332
+2022-06-05 23:32:57 - Send SIGINT 6332
+2022-06-05 23:32:57 - SIGINT to 6332 failed - Killing as fallback
+2022-06-05 23:32:57 - Finished serverpi.exe
+2022-06-05 23:35:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-05 23:35:48 - Started 8408
+2022-06-28 00:45:11 - Stopping serverpi.exe
+2022-06-28 00:45:12 - ProcessKill 8408
+2022-06-28 00:45:13 - Found child process: 7556 Name: conhost.exe
+2022-06-28 00:45:13 - Found child process: 8876 Name: node.exe
+2022-06-28 00:45:13 - Stopping process 7556
+2022-06-28 00:45:13 - Send SIGINT 7556
+2022-06-28 00:45:13 - SIGINT to 7556 failed - Killing as fallback
+2022-06-28 00:45:13 - Stopping process 8876
+2022-06-28 00:45:13 - Send SIGINT 8876
+2022-06-28 00:45:13 - SIGINT to 8876 failed - Killing as fallback
+2022-06-28 00:45:13 - Stopping process 8408
+2022-06-28 00:45:13 - Send SIGINT 8408
+2022-06-28 00:45:13 - SIGINT to 8408 failed - Killing as fallback
+2022-06-28 00:45:13 - Finished serverpi.exe
+2022-06-28 00:46:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-28 00:46:33 - Started 2784
+2022-06-28 00:48:39 - Stopping serverpi.exe
+2022-06-28 00:48:39 - ProcessKill 2784
+2022-06-28 00:48:39 - Found child process: 7212 Name: conhost.exe
+2022-06-28 00:48:39 - Found child process: 8308 Name: node.exe
+2022-06-28 00:48:39 - Stopping process 7212
+2022-06-28 00:48:39 - Send SIGINT 7212
+2022-06-28 00:48:39 - SIGINT to 7212 failed - Killing as fallback
+2022-06-28 00:48:39 - Stopping process 8308
+2022-06-28 00:48:39 - Send SIGINT 8308
+2022-06-28 00:48:39 - SIGINT to 8308 failed - Killing as fallback
+2022-06-28 00:48:39 - Stopping process 2784
+2022-06-28 00:48:39 - Send SIGINT 2784
+2022-06-28 00:48:39 - SIGINT to 2784 failed - Killing as fallback
+2022-06-28 00:48:39 - Finished serverpi.exe
+2022-06-28 00:48:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-28 00:48:43 - Started 8160
+2022-06-28 01:12:44 - Stopping serverpi.exe
+2022-06-28 01:12:44 - ProcessKill 8160
+2022-06-28 01:12:45 - Found child process: 7556 Name: conhost.exe
+2022-06-28 01:12:45 - Found child process: 6364 Name: node.exe
+2022-06-28 01:12:45 - Stopping process 7556
+2022-06-28 01:12:45 - Send SIGINT 7556
+2022-06-28 01:12:45 - SIGINT to 7556 failed - Killing as fallback
+2022-06-28 01:12:45 - Stopping process 6364
+2022-06-28 01:12:45 - Send SIGINT 6364
+2022-06-28 01:12:45 - SIGINT to 6364 failed - Killing as fallback
+2022-06-28 01:12:45 - Stopping process 8160
+2022-06-28 01:12:45 - Send SIGINT 8160
+2022-06-28 01:12:45 - SIGINT to 8160 failed - Killing as fallback
+2022-06-28 01:12:45 - Finished serverpi.exe
+2022-06-28 01:46:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-28 01:46:12 - Started 9772
+2022-06-30 13:53:06 - Stopping serverpi.exe
+2022-06-30 13:53:06 - ProcessKill 9772
+2022-06-30 13:53:07 - Found child process: 9816 Name: conhost.exe
+2022-06-30 13:53:07 - Found child process: 8536 Name: node.exe
+2022-06-30 13:53:07 - Stopping process 9816
+2022-06-30 13:53:07 - Send SIGINT 9816
+2022-06-30 13:53:08 - SIGINT to 9816 failed - Killing as fallback
+2022-06-30 13:53:08 - Stopping process 8536
+2022-06-30 13:53:08 - Send SIGINT 8536
+2022-06-30 13:53:08 - SIGINT to 8536 failed - Killing as fallback
+2022-06-30 13:53:08 - Stopping process 9772
+2022-06-30 13:53:08 - Send SIGINT 9772
+2022-06-30 13:53:08 - SIGINT to 9772 failed - Killing as fallback
+2022-06-30 13:53:08 - Finished serverpi.exe
+2022-06-30 13:53:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\api-pi2\server.js --log "ServerPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-30 13:53:10 - Started 488
